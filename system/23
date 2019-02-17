@@ -1,0 +1,5 @@
+connect with
+ssh login:password@ipadress
+for graphical interface
+ssh -X login:password@ipadress
+
