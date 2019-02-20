@@ -1,0 +1,1 @@
+ping -c 2 10.11.255.255 | grep icmp_seq=0 | cut -d' ' -f4 | tr -d ':'
